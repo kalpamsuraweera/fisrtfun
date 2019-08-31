@@ -1,1 +1,1 @@
-printhelo k
+print 'helo k'
